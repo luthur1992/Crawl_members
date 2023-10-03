@@ -1,0 +1,1 @@
+try{importScripts("public/lib/js/parse.min.js"),importScripts("./background.js")}catch(error){console.log(error)}

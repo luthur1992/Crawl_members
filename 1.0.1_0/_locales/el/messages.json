@@ -1,0 +1,10 @@
+{
+   "extDescription": {
+      "description": "Description of the extension",
+      "message": "Groups Export Tool to scrape, extract facebook member and export to CSV/Excel with one click"
+   },
+   "extName": {
+      "description": "Name of the extension",
+      "message": "Group Extractor - Export User from Group"
+   }
+}
